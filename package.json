@@ -43,8 +43,7 @@
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp",
-    "test:watch": "gulp watch",
-    "postinstall": "gulp prepublish"
+    "test:watch": "gulp watch"
   },
   "dependencies": {}
 }
